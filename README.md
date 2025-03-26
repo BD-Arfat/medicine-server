@@ -1,6 +1,6 @@
 # 🌿 MedlinePlus - Your Trusted Medicine Marketplace
 
-🔗 **Live Site:** [Visit Here](https://lnkd.in/gqCvKUd6)  
+🔗 **Live Site:** [Visit Here](https://medicine-client.web.app/)  
 🔗 **Client Repo:** [GitHub](https://lnkd.in/gpywiXVs)  
 🔗 **Server Repo:** [GitHub](https://lnkd.in/gc6QH5yu)  
 
