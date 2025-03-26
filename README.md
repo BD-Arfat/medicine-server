@@ -1,8 +1,8 @@
 # 🌿 MedlinePlus - Your Trusted Medicine Marketplace
 
 🔗 **Live Site:** [Visit Here](https://medicine-client.web.app/)  
-🔗 **Client Repo:** [GitHub](https://lnkd.in/gpywiXVs)  
-🔗 **Server Repo:** [GitHub](https://lnkd.in/gc6QH5yu)  
+🔗 **Client Repo:** [GitHub](https://medicine-client.web.app/)  
+🔗 **Server Repo:** [GitHub](https://github.com/BD-Arfat/medicine-server)  
 
 ## 🔑 Admin & Seller Credentials
 - **Admin:** mama@gmail.com | **Password:** 123456  
